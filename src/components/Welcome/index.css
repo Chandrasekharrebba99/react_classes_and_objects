@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+button {
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+}
+.topbg {
+  background-color: #1e293b;
+  font-family: Bree Serif;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+h1 {
+  color: #f0bb03;
+}
+h3 {
+  color: #ffffff;
+}
